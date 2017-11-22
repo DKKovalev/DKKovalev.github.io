@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.kovalev.applinkreciever",
+    "sha256_cert_fingerprints":
+    ["89:9D:B6:E1:B5:8E:9E:BD:32:CA:1B:07:24:1A:20:66:F2:B2:31:F2:AA:DF:28:2B:39:BC:77:02:21:C8:79:7D"]
+  }
+}]
